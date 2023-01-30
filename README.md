@@ -21,7 +21,4 @@ Run the test cases.
 ## Learn More
 
 To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
-2
-3
-4
-5
+
