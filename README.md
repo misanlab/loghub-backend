@@ -24,3 +24,4 @@ To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/d
 2
 3
 4
+5
