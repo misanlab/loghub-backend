@@ -22,3 +22,4 @@ Run the test cases.
 
 To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
 
+1
